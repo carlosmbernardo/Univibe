@@ -1,0 +1,728 @@
+The Beatles,Hey Jude,Rock,500000000,10000000
+The Beatles,Let It Be,Rock,400000000,8000000
+Queen,Bohemian Rhapsody,Rock,1000000000,15000000
+Queen,Somebody to Love,Rock,300000000,6000000
+Michael Jackson,Billie Jean,Pop,600000000,12000000
+Michael Jackson,Thriller,Pop,1500000000,20000000
+Madonna,Like a Prayer,Pop,350000000,7000000
+Madonna,Vogue,Pop,300000000,5000000
+Nirvana,Smells Like Teen Spirit,Grunge,700000000,14000000
+Nirvana,Come As You Are,Grunge,250000000,4000000
+Whitney Houston,I Will Always Love You,R&B,1000000000,18000000
+Whitney Houston,Greatest Love of All,R&B,200000000,3000000
+Bob Marley,No Woman No Cry,Reggae,450000000,9000000
+Bob Marley,One Love,Reggae,500000000,11000000
+Adele,Rolling in the Deep,Soul,400000000,10000000
+Adele,Someone Like You,Soul,350000000,8000000
+Elton John,Rocket Man,Rock,250000000,5000000
+Elton John,Tiny Dancer,Rock,300000000,6000000
+Taylor Swift,Shake It Off,Pop,650000000,13000000
+Taylor Swift,Blank Space,Pop,550000000,11000000
+Beyonce,Single Ladies (Put a Ring on It),R&B,600000000,14000000
+Beyonce,Halo,R&B,300000000,7000000
+Led Zeppelin,Stairway to Heaven,Rock,500000000,10000000
+Led Zeppelin,Whole Lotta Love,Rock,350000000,5000000
+Pink Floyd,Wish You Were Here,Progressive Rock,400000000,9000000
+Pink Floyd,Comfortably Numb,Progressive Rock,450000000,8000000
+Prince,Purple Rain,Rock,600000000,12000000
+Prince,Kiss,Funk/Rock,350000000,6000000
+U2,With or Without You,Rock,400000000,10000000
+U2,I Still Haven't Found What I'm Looking For,Rock,300000000,5000000
+Britney Spears,Toxic,Pop,600000000,15000000
+Britney Spears,Oops!... I Did It Again,Pop,500000000,12000000
+Justin Timberlake,Can't Stop the Feeling!,Pop,700000000,18000000
+Justin Timberlake,Cry Me a River,R&B,350000000,8000000
+Maroon 5,Sugar,Pop Rock,650000000,14000000
+Maroon 5,Girls Like You,Pop,600000000,13000000
+Ed Sheeran,Shape of You,Pop,2000000000,30000000
+Ed Sheeran,Perfect,Pop,1000000000,20000000
+Rihanna,Umbrella,R&B,1000000000,25000000
+Rihanna,Diamonds,Pop,800000000,20000000
+The Rolling Stones,Paint It Black,Rock,300000000,5000000
+The Rolling Stones,Sympathy for the Devil,Rock,250000000,4000000
+Fleetwood Mac,Go Your Own Way,Rock,400000000,8000000
+Fleetwood Mac,Landslide,Folk Rock,300000000,7000000
+Bruce Springsteen,Born to Run,Rock,350000000,6000000
+Bruce Springsteen,Dancing in the Dark,Rock,400000000,9000000
+Coldplay,Fix You,Rock,600000000,12000000
+Coldplay,Yellow,Rock,550000000,11000000
+The Weeknd,Blinding Lights,Synthpop,2000000000,40000000
+The Weeknd,Starboy,R&B,1000000000,20000000
+Dua Lipa,Don't Start Now,Disco,700000000,18000000
+Dua Lipa,Levitating,Disco,650000000,16000000
+Sam Smith,Stay With Me,Soul,400000000,10000000
+Sam Smith,I'm Not the Only One,Soul,350000000,9000000
+Imagine Dragons,Radioactive,Rock,1000000000,25000000
+Imagine Dragons,Demons,Rock,500000000,15000000
+Shakira,Hips Don't Lie,Latin Pop,1000000000,22000000
+Shakira,Whenever Wherever,Latin Pop,700000000,18000000
+Justin Bieber,Sorry,Dancehall,1000000000,20000000
+Justin Bieber,Love Yourself,Pop,800000000,25000000
+Bon Jovi,Livin' on a Prayer,Rock,700000000,18000000
+Bon Jovi,It's My Life,Rock,500000000,14000000
+Katy Perry,Firework,Pop,1000000000,30000000
+Katy Perry,Roar,Pop,800000000,22000000
+Lady Gaga,Bad Romance,Pop,800000000,21000000
+Lady Gaga,Poker Face,Pop,900000000,25000000
+The Killers,Mr. Brightside,Rock,1000000000,30000000
+The Killers,Somebody Told Me,Rock,400000000,10000000
+Cyndi Lauper,Girls Just Want to Have Fun,Pop,500000000,15000000
+Cyndi Lauper,Time After Time,Pop,300000000,7000000
+Simon & Garfunkel,The Sound of Silence,Folk Rock,400000000,8000000
+Simon & Garfunkel,Bridge Over Troubled Water,Folk Rock,300000000,6000000
+Bob Dylan,Like a Rolling Stone,Folk Rock,350000000,9000000
+Bob Dylan,Tangled Up in Blue,Folk Rock,300000000,5000000
+Alanis Morissette,You Oughta Know,Alternative Rock,500000000,11000000
+Alanis Morissette,Ironic,Alternative Rock,450000000,10000000
+Tones and I,Dance Monkey,Pop,1000000000,30000000
+Tones and I,Never Seen the Rain,Pop,400000000,10000000
+Jason Derulo,Talk Dirty,Pop,600000000,18000000
+Jason Derulo,Want to Want Me,Pop,500000000,15000000
+Pharrell Williams,Happy,Funk,1000000000,25000000
+Pharrell Williams,Freedom,Pop,300000000,5000000
+Hozier,Take Me to Church,Indie Rock,800000000,20000000
+Hozier,From Eden,Indie Rock,300000000,6000000
+Kings of Leon,Use Somebody,Rock,500000000,12000000
+Kings of Leon,Sex on Fire,Rock,600000000,15000000
+The Chainsmokers,Closer,EDM,1000000000,20000000
+The Chainsmokers,Something Just Like This,EDM,800000000,22000000
+Daft Punk,Get Lucky,Electronic,600000000,18000000
+Daft Punk,One More Time,Electronic,700000000,20000000
+Green Day,Boulevard of Broken Dreams,Punk Rock,500000000,14000000
+Green Day,American Idiot,Punk Rock,600000000,16000000
+Christina Aguilera,Genie in a Bottle,Pop,400000000,10000000
+Christina Aguilera,Beautiful,Pop,500000000,12000000
+Miley Cyrus,Wrecking Ball,Pop,1000000000,30000000
+Miley Cyrus,Party in the USA,Pop,600000000,18000000
+Enrique Iglesias,Bailamos,Latin Pop,300000000,5000000
+Enrique Iglesias,Hero,Latin Pop,350000000,6000000
+Kelly Clarkson,Since U Been Gone,Pop,500000000,11000000
+Kelly Clarkson,Stronger (What Doesn't Kill You),Pop,400000000,9000000
+Travis Scott,Sicko Mode,Hip Hop,1000000000,20000000
+Travis Scott,Goosebumps,Hip Hop,600000000,15000000
+Lil Nas X,Old Town Road,Country Rap,1000000000,30000000
+Lil Nas X,Montero (Call Me by Your Name),Pop,600000000,18000000
+Dua Lipa,Physical,Pop,400000000,10000000
+Dua Lipa,Break My Heart,Pop,500000000,11000000
+Janelle Monae,Tightrope,Funk,300000000,6000000
+Janelle Monae,Make Me Feel,Funk,250000000,5000000
+The Lumineers,Ho Hey,Folk,400000000,8000000
+The Lumineers,Ophelia,Folk,300000000,7000000
+Florence + The Machine,Dog Days Are Over,Indie Rock,500000000,12000000
+Florence + The Machine,Shake It Out,Indie Rock,450000000,11000000
+The White Stripes,Seven Nation Army,Rock,700000000,20000000
+The White Stripes,Fell in Love with a Girl,Rock,400000000,10000000
+Paramore,Misery Business,Pop Punk,400000000,10000000
+Paramore,Ain't It Fun,Pop Rock,450000000,11000000
+OneRepublic,Counting Stars,Pop Rock,600000000,15000000
+OneRepublic,Apologize,Pop,500000000,12000000
+Kelly Clarkson,My Life Would Suck Without You,Pop,300000000,7000000
+Billie Eilish,Bad Guy,Pop,1000000000,30000000
+Billie Eilish,When the Party's Over,Pop,600000000,18000000
+Panic! At The Disco,I Write Sins Not Tragedies,Pop Rock,600000000,15000000
+Panic! At The Disco,High Hopes,Pop Rock,700000000,20000000
+Sia,Chandelier,Pop,700000000,20000000
+Sia,Elastic Heart,Pop,500000000,12000000
+Maroon 5,She Will Be Loved,Pop Rock,400000000,10000000
+Maroon 5,Animals,Pop Rock,450000000,11000000
+Jason Aldean,Dirt Road Anthem,Country,300000000,5000000
+Jason Aldean,Burnin' It Down,Country,250000000,4000000
+Luke Bryan,Drunk on You,Country,200000000,3000000
+Luke Bryan,Play It Again,Country,350000000,6000000
+Carrie Underwood,Before He Cheats,Country,400000000,10000000
+Carrie Underwood,Jesus Take the Wheel,Country,350000000,9000000
+Miranda Lambert,The House That Built Me,Country,300000000,5000000
+Miranda Lambert,Gunpowder & Lead,Country,250000000,4000000
+Kacey Musgraves,Follow Your Arrow,Country,200000000,3000000
+Kacey Musgraves,Butterflies,Country,250000000,4000000
+Maren Morris,My Church,Country,200000000,3000000
+Maren Morris,The Bones,Country,250000000,4000000
+Florida Georgia Line,Cruise,Country,600000000,15000000
+Florida Georgia Line,Get Your Shine On,Country,300000000,5000000
+Zedd,Clarity,EDM,400000000,10000000
+Zedd,Stay,EDM,350000000,9000000
+Calvin Harris,Feel So Close,EDM,600000000,15000000
+Calvin Harris,This Is What You Came For,EDM,700000000,18000000
+Marshmello,Happier,EDM,700000000,20000000
+Marshmello,Alone,EDM,600000000,18000000
+Kygo,Firestone,EDM,400000000,10000000
+Kygo,Stole the Show,EDM,500000000,12000000
+DJ Snake,Taki Taki,EDM,600000000,18000000
+DJ Snake,Let Me Love You,EDM,400000000,10000000
+Billie Eilish,Ocean Eyes,Pop,300000000,7000000
+Billie Eilish,Your Power,Pop,250000000,5000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Post Malone,Rockstar,Hip Hop,1000000000,25000000
+Lil Uzi Vert,XO TOUR Llif3,Hip Hop,400000000,10000000
+Lil Uzi Vert,Money Longer,Hip Hop,350000000,9000000
+Nicki Minaj,Super Bass,Hip Hop,600000000,18000000
+Nicki Minaj,Anaconda,Hip Hop,500000000,12000000
+Cardi B,Bodak Yellow,Hip Hop,600000000,15000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+21 Savage,A Lot,Hip Hop,400000000,10000000
+21 Savage,bank account,Hip Hop,350000000,8000000
+Lil Baby,Drip Too Hard,Hip Hop,500000000,12000000
+Lil Baby,Yes Indeed,Hip Hop,400000000,10000000
+Future,Mask Off,Hip Hop,600000000,15000000
+Future,Jumpman,Hip Hop,500000000,12000000
+J Cole,Middle Child,Hip Hop,400000000,9000000
+J Cole,No Role Modelz,Hip Hop,300000000,7000000
+Travis Scott,Butterfly Effect,Hip Hop,400000000,10000000
+Travis Scott,Highest in the Room,Hip Hop,300000000,6000000
+Migos,Bad and Boujee,Hip Hop,600000000,15000000
+Migos,Walk It Talk It,Hip Hop,400000000,10000000
+Young Thug,Best Friend,Hip Hop,300000000,5000000
+Young Thug,Stoner,Hip Hop,250000000,4000000
+Khalid,Location,R&B,400000000,10000000
+Khalid,Talk,R&B,600000000,15000000
+H.E.R.,Best Part,R&B,300000000,7000000
+H.E.R.,Damage,R&B,200000000,3000000
+SZA,Good Days,R&B,400000000,10000000
+SZA,Drew Barrymore,R&B,300000000,6000000
+Summer Walker,Girls Need Love,R&B,300000000,6000000
+Summer Walker,Playing Games,R&B,200000000,4000000
+T-Pain,Buy U a Drank,R&B,300000000,6000000
+T-Pain,I'm Sprung,R&B,250000000,5000000
+Usher,Yeah!,R&B,600000000,15000000
+Usher,Climax,R&B,400000000,10000000
+John Legend,All of Me,R&B,600000000,15000000
+John Legend,Used to Love U,R&B,250000000,5000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Alicia Keys,No One,R&B,300000000,7000000
+Chris Brown,Forever,R&B,400000000,10000000
+Chris Brown,With You,R&B,350000000,9000000
+Justin Bieber,Sorry,Dancehall,1000000000,20000000
+Justin Bieber,What Do You Mean?,Pop,800000000,25000000
+Demi Lovato,Sorry Not Sorry,Pop,600000000,15000000
+Demi Lovato,Heart Attack,Pop,500000000,12000000
+Selena Gomez,Come & Get It,Pop,400000000,10000000
+Selena Gomez,Back to You,Pop,300000000,7000000
+Charlie Puth,Attention,Pop,600000000,15000000
+Charlie Puth,We Don't Talk Anymore,Pop,500000000,12000000
+Jessie J,Price Tag,Pop,400000000,10000000
+Jessie J,Domino,Pop,300000000,6000000
+Anne-Marie,Friends,Pop,500000000,13000000
+Anne-Marie,Ciao Adios,Pop,400000000,10000000
+Zara Larsson,Lush Life,Pop,600000000,15000000
+Zara Larsson,Symphony,Pop,500000000,12000000
+Ava Max,Sweet but Psycho,Pop,600000000,18000000
+Ava Max,Kings & Queens,Pop,700000000,20000000
+Bebe Rexha,Meant to Be,Pop,500000000,14000000
+Bebe Rexha,I'm a Mess,Pop,400000000,10000000
+Halsey,Without Me,Pop,700000000,20000000
+Halsey,Eastside,Pop,600000000,15000000
+Lizzo,Truth Hurts,Pop,600000000,15000000
+Lizzo,Good as Hell,Pop,500000000,13000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Bruno Mars,24K Magic,Pop,800000000,20000000
+Snoop Dogg,Drop It Like It's Hot,Hip Hop,600000000,15000000
+Snoop Dogg,What's My Name?,Hip Hop,400000000,10000000
+Lil Wayne,A Milli,Hip Hop,500000000,12000000
+Lil Wayne,Lollipop,Hip Hop,600000000,15000000
+Drake,God's Plan,Hip Hop,1000000000,30000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Eminem,Lose Yourself,Hip Hop,1000000000,25000000
+Eminem,Stan,Hip Hop,700000000,18000000
+50 Cent,In Da Club,Hip Hop,600000000,15000000
+50 Cent,21 Questions,Hip Hop,300000000,7000000
+Lil Kim,Crush on You,Hip Hop,250000000,4000000
+Lil Kim,No Time,Hip Hop,200000000,3000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Camila Cabello,Señorita,Pop,700000000,20000000
+Shawn Mendes,Stitches,Pop,600000000,15000000
+Shawn Mendes,There's Nothing Holdin' Me Back,Pop,500000000,12000000
+Niall Horan,Slow Hands,Pop,400000000,10000000
+Niall Horan,This Town,Pop,300000000,7000000
+Charlie Puth,One Call Away,Pop,500000000,12000000
+Charlie Puth,See You Again,Pop,600000000,15000000
+Ed Sheeran,Castle on the Hill,Pop,400000000,10000000
+Ed Sheeran,Galway Girl,Pop,500000000,13000000
+The Script,Hall of Fame,Pop Rock,400000000,10000000
+The Script,The Man Who Can't Be Moved,Pop Rock,300000000,6000000
+OneRepublic,Secrets,Pop Rock,500000000,12000000
+OneRepublic,Good Life,Pop Rock,400000000,10000000
+Florence + The Machine,Shake It Out,Indie Rock,450000000,11000000
+Florence + The Machine,Dog Days Are Over,Indie Rock,500000000,12000000
+Hozier,Take Me to Church,Indie Rock,800000000,20000000
+The Lumineers,Ho Hey,Folk,400000000,8000000
+The Killers,Mr. Brightside,Rock,1000000000,30000000
+Coldplay,Fix You,Rock,600000000,12000000
+Green Day,Boulevard of Broken Dreams,Punk Rock,500000000,14000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Chris Brown,Forever,R&B,400000000,10000000
+Kelly Clarkson,Since U Been Gone,Pop,500000000,11000000
+Sam Smith,Stay With Me,Soul,400000000,10000000
+Justin Timberlake,Can't Stop the Feeling!,Pop,700000000,18000000
+Dua Lipa,Don't Start Now,Disco,700000000,18000000
+Halsey,Without Me,Pop,700000000,20000000
+Billie Eilish,Bad Guy,Pop,1000000000,30000000
+Rihanna,Diamonds,Pop,800000000,20000000
+Katy Perry,Roar,Pop,800000000,22000000
+Ed Sheeran,Perfect,Pop,1000000000,20000000
+The Weeknd,Blinding Lights,Synthpop,2000000000,40000000
+The Chainsmokers,Closer,EDM,1000000000,20000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Imagine Dragons,Radioactive,Rock,1000000000,25000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+Nicki Minaj,Super Bass,Hip Hop,600000000,18000000
+Travis Scott,Sicko Mode,Hip Hop,1000000000,20000000
+Lil Nas X,Old Town Road,Country Rap,1000000000,30000000
+Lizzo,Truth Hurts,Pop,600000000,15000000
+Shawn Mendes,There's Nothing Holdin' Me Back,Pop,500000000,12000000
+Khalid,Talk,R&B,600000000,15000000
+J Cole,Middle Child,Hip Hop,400000000,9000000
+Marshmello,Happier,EDM,700000000,20000000
+Ariana Grande,7 Rings,Pop,800000000,22000000
+H.E.R.,Best Part,R&B,300000000,7000000
+John Legend,All of Me,R&B,600000000,15000000
+Usher,Yeah!,R&B,600000000,15000000
+SZA,Good Days,R&B,400000000,10000000
+Summer Walker,Girls Need Love,R&B,300000000,6000000
+The Weeknd,Starboy,R&B,1000000000,20000000
+21 Savage,A Lot,Hip Hop,400000000,10000000
+Lil Baby,Yes Indeed,Hip Hop,400000000,10000000
+Snoop Dogg,Drop It Like It's Hot,Hip Hop,600000000,15000000
+50 Cent,In Da Club,Hip Hop,600000000,15000000
+Justin Bieber,What Do You Mean?,Pop,800000000,25000000
+Miley Cyrus,Wrecking Ball,Pop,1000000000,30000000
+Lady Gaga,Bad Romance,Pop,800000000,21000000
+Bruno Mars,24K Magic,Pop,800000000,20000000
+Zedd,Clarity,EDM,400000000,10000000
+Calvin Harris,Feel So Close,EDM,600000000,15000000
+Charlie Puth,Attention,Pop,600000000,15000000
+The Killers,Somebody Told Me,Rock,400000000,10000000
+Tones and I,Dance Monkey,Pop,1000000000,30000000
+Janelle Monáe,Tightrope,Funk,300000000,6000000
+Jason Aldean,Dirt Road Anthem,Country,300000000,5000000
+Jason Aldean,Burnin' It Down,Country,250000000,4000000
+Luke Bryan,Drunk on You,Country,200000000,3000000
+Luke Bryan,Play It Again,Country,350000000,6000000
+Carrie Underwood,Before He Cheats,Country,400000000,10000000
+Carrie Underwood,Jesus Take the Wheel,Country,350000000,9000000
+Miranda Lambert,The House That Built Me,Country,300000000,5000000
+Miranda Lambert,Gunpowder & Lead,Country,250000000,4000000
+Kacey Musgraves,Follow Your Arrow,Country,200000000,3000000
+Kacey Musgraves,Butterflies,Country,250000000,4000000
+Maren Morris,My Church,Country,200000000,3000000
+Maren Morris,The Bones,Country,250000000,4000000
+Florida Georgia Line,Cruise,Country,600000000,15000000
+Florida Georgia Line,Get Your Shine On,Country,300000000,5000000
+Zedd,Clarity,EDM,400000000,10000000
+Zedd,Stay,EDM,350000000,9000000
+Calvin Harris,Feel So Close,EDM,600000000,15000000
+Calvin Harris,This Is What You Came For,EDM,700000000,18000000
+Marshmello,Happier,EDM,700000000,20000000
+Marshmello,Alone,EDM,600000000,18000000
+Kygo,Firestone,EDM,400000000,10000000
+Kygo,Stole the Show,EDM,500000000,12000000
+DJ Snake,Taki Taki,EDM,600000000,18000000
+DJ Snake,Let Me Love You,EDM,400000000,10000000
+Billie Eilish,Ocean Eyes,Pop,300000000,7000000
+Billie Eilish,Your Power,Pop,250000000,5000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Post Malone,Rockstar,Hip Hop,1000000000,25000000
+Lil Uzi Vert,XO TOUR Llif3,Hip Hop,400000000,10000000
+Lil Uzi Vert,Money Longer,Hip Hop,350000000,9000000
+Nicki Minaj,Super Bass,Hip Hop,600000000,18000000
+Nicki Minaj,Anaconda,Hip Hop,500000000,12000000
+Cardi B,Bodak Yellow,Hip Hop,600000000,15000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+21 Savage,A Lot,Hip Hop,400000000,10000000
+21 Savage,bank account,Hip Hop,350000000,8000000
+Lil Baby,Drip Too Hard,Hip Hop,500000000,12000000
+Lil Baby,Yes Indeed,Hip Hop,400000000,10000000
+Future,Mask Off,Hip Hop,600000000,15000000
+Future,Jumpman,Hip Hop,500000000,12000000
+J Cole,Middle Child,Hip Hop,400000000,9000000
+J Cole,No Role Modelz,Hip Hop,300000000,7000000
+Travis Scott,Butterfly Effect,Hip Hop,400000000,10000000
+Travis Scott,Highest in the Room,Hip Hop,300000000,6000000
+Migos,Bad and Boujee,Hip Hop,600000000,15000000
+Migos,Walk It Talk It,Hip Hop,400000000,10000000
+Young Thug,Best Friend,Hip Hop,300000000,5000000
+Young Thug,Stoner,Hip Hop,250000000,4000000
+Khalid,Location,R&B,400000000,10000000
+Khalid,Talk,R&B,600000000,15000000
+H.E.R.,Best Part,R&B,300000000,7000000
+H.E.R.,Damage,R&B,200000000,3000000
+SZA,Good Days,R&B,400000000,10000000
+SZA,Drew Barrymore,R&B,300000000,6000000
+Summer Walker,Girls Need Love,R&B,300000000,6000000
+Summer Walker,Playing Games,R&B,200000000,4000000
+T-Pain,Buy U a Drank,R&B,300000000,6000000
+T-Pain,I'm Sprung,R&B,250000000,5000000
+Usher,Yeah!,R&B,600000000,15000000
+Usher,Climax,R&B,400000000,10000000
+John Legend,All of Me,R&B,600000000,15000000
+John Legend,Used to Love U,R&B,250000000,5000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Alicia Keys,No One,R&B,300000000,7000000
+Chris Brown,Forever,R&B,400000000,10000000
+Chris Brown,With You,R&B,350000000,9000000
+Justin Bieber,Sorry,Dancehall,1000000000,20000000
+Justin Bieber,What Do You Mean?,Pop,800000000,25000000
+Demi Lovato,Sorry Not Sorry,Pop,600000000,15000000
+Demi Lovato,Heart Attack,Pop,500000000,12000000
+Selena Gomez,Come & Get It,Pop,400000000,10000000
+Selena Gomez,Back to You,Pop,300000000,7000000
+Charlie Puth,Attention,Pop,600000000,15000000
+Charlie Puth,We Don't Talk Anymore,Pop,500000000,12000000
+Jessie J,Price Tag,Pop,400000000,10000000
+Jessie J,Domino,Pop,300000000,6000000
+Anne-Marie,Friends,Pop,500000000,13000000
+Anne-Marie,Ciao Adios,Pop,400000000,10000000
+Zara Larsson,Lush Life,Pop,600000000,15000000
+Zara Larsson,Symphony,Pop,500000000,12000000
+Ava Max,Sweet but Psycho,Pop,600000000,18000000
+Ava Max,Kings & Queens,Pop,700000000,20000000
+Bebe Rexha,Meant to Be,Pop,500000000,14000000
+Bebe Rexha,I'm a Mess,Pop,400000000,10000000
+Halsey,Without Me,Pop,700000000,20000000
+Halsey,Eastside,Pop,600000000,15000000
+Lizzo,Truth Hurts,Pop,600000000,15000000
+Lizzo,Good as Hell,Pop,500000000,13000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Bruno Mars,24K Magic,Pop,800000000,20000000
+Snoop Dogg,Drop It Like It's Hot,Hip Hop,600000000,15000000
+Snoop Dogg,What's My Name?,Hip Hop,400000000,10000000
+Lil Wayne,A Milli,Hip Hop,500000000,12000000
+Lil Wayne,Lollipop,Hip Hop,600000000,15000000
+Drake,God's Plan,Hip Hop,1000000000,30000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Eminem,Lose Yourself,Hip Hop,1000000000,25000000
+Eminem,Stan,Hip Hop,700000000,18000000
+50 Cent,In Da Club,Hip Hop,600000000,15000000
+50 Cent,21 Questions,Hip Hop,300000000,7000000
+Lil Kim,Crush on You,Hip Hop,250000000,4000000
+Lil Kim,No Time,Hip Hop,200000000,3000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Camila Cabello,Señorita,Pop,700000000,20000000
+Shawn Mendes,Stitches,Pop,600000000,15000000
+Shawn Mendes,There's Nothing Holdin' Me Back,Pop,500000000,12000000
+Niall Horan,Slow Hands,Pop,400000000,10000000
+Niall Horan,This Town,Pop,300000000,7000000
+Charlie Puth,One Call Away,Pop,500000000,12000000
+Charlie Puth,See You Again,Pop,600000000,15000000
+Ed Sheeran,Castle on the Hill,Pop,400000000,10000000
+Ed Sheeran,Galway Girl,Pop,500000000,13000000
+The Script,Hall of Fame,Pop Rock,400000000,10000000
+The Script,The Man Who Can't Be Moved,Pop Rock,300000000,6000000
+OneRepublic,Secrets,Pop Rock,500000000,12000000
+OneRepublic,Good Life,Pop Rock,400000000,10000000
+Florence + The Machine,Shake It Out,Indie Rock,450000000,11000000
+Florence + The Machine,Dog Days Are Over,Indie Rock,500000000,12000000
+Hozier,Take Me to Church,Indie Rock,800000000,20000000
+The Lumineers,Ho Hey,Folk,400000000,8000000
+The Killers,Mr. Brightside,Rock,1000000000,30000000
+Coldplay,Fix You,Rock,600000000,12000000
+Green Day,Boulevard of Broken Dreams,Punk Rock,500000000,14000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Chris Brown,Forever,R&B,400000000,10000000
+Kelly Clarkson,Since U Been Gone,Pop,500000000,11000000
+Sam Smith,Stay With Me,Soul,400000000,10000000
+Justin Timberlake,Can't Stop the Feeling!,Pop,700000000,18000000
+Dua Lipa,Don't Start Now,Disco,700000000,18000000
+Halsey,Without Me,Pop,700000000,20000000
+Billie Eilish,Bad Guy,Pop,1000000000,30000000
+Rihanna,Diamonds,Pop,800000000,20000000
+Katy Perry,Roar,Pop,800000000,22000000
+Ed Sheeran,Perfect,Pop,1000000000,20000000
+The Weeknd,Blinding Lights,Synthpop,2000000000,40000000
+The Chainsmokers,Closer,EDM,1000000000,20000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Imagine Dragons,Radioactive,Rock,1000000000,25000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+Nicki Minaj,Super Bass,Hip Hop,600000000,18000000
+Travis Scott,Sicko Mode,Hip Hop,1000000000,20000000
+Lil Nas X,Old Town Road,Country Rap,1000000000,30000000
+Lizzo,Truth Hurts,Pop,600000000,15000000
+Shawn Mendes,There's Nothing Holdin' Me Back,Pop,500000000,12000000
+Khalid,Talk,R&B,600000000,15000000
+J Cole,Middle Child,Hip Hop,400000000,9000000
+Marshmello,Happier,EDM,700000000,20000000
+Ariana Grande,7 Rings,Pop,800000000,22000000
+H.E.R.,Best Part,R&B,300000000,7000000
+John Legend,All of Me,R&B,600000000,15000000
+Usher,Yeah!,R&B,600000000,15000000
+SZA,Good Days,R&B,400000000,10000000
+Summer Walker,Girls Need Love,R&B,300000000,6000000
+The Weeknd,Starboy,R&B,1000000000,20000000
+21 Savage,A Lot,Hip Hop,400000000,10000000
+Lil Baby,Yes Indeed,Hip Hop,400000000,10000000
+Snoop Dogg,Drop It Like It's Hot,Hip Hop,600000000,15000000
+50 Cent,In Da Club,Hip Hop,600000000,15000000
+Justin Bieber,What Do You Mean?,Pop,800000000,25000000
+Miley Cyrus,Wrecking Ball,Pop,1000000000,30000000
+Lady Gaga,Bad Romance,Pop,800000000,21000000
+Bruno Mars,24K Magic,Pop,800000000,20000000
+Zedd,Clarity,EDM,400000000,10000000
+Calvin Harris,Feel So Close,EDM,600000000,15000000
+Charlie Puth,Attention,Pop,600000000,15000000
+The Killers,Somebody Told Me,Rock,400000000,10000000
+Tones and I,Dance Monkey,Pop,1000000000,30000000
+Janelle Monáe,Tightrope,Funk,300000000,6000000
+Jason Aldean,Dirt Road Anthem,Country,300000000,5000000
+Jason Aldean,Burnin' It Down,Country,250000000,4000000
+Luke Bryan,Drunk on You,Country,200000000,3000000
+Luke Bryan,Play It Again,Country,350000000,6000000
+Carrie Underwood,Before He Cheats,Country,400000000,10000000
+Carrie Underwood,Jesus Take the Wheel,Country,350000000,9000000
+Miranda Lambert,The House That Built Me,Country,300000000,5000000
+Miranda Lambert,Gunpowder & Lead,Country,250000000,4000000
+Kacey Musgraves,Follow Your Arrow,Country,200000000,3000000
+Kacey Musgraves,Butterflies,Country,250000000,4000000
+Maren Morris,My Church,Country,200000000,3000000
+Maren Morris,The Bones,Country,250000000,4000000
+Florida Georgia Line,Cruise,Country,600000000,15000000
+Florida Georgia Line,Get Your Shine On,Country,300000000,5000000
+Zedd,Clarity,EDM,400000000,10000000
+Zedd,Stay,EDM,350000000,9000000
+Calvin Harris,Feel So Close,EDM,600000000,15000000
+Calvin Harris,This Is What You Came For,EDM,700000000,18000000
+Marshmello,Happier,EDM,700000000,20000000
+Marshmello,Alone,EDM,600000000,18000000
+Kygo,Firestone,EDM,400000000,10000000
+Kygo,Stole the Show,EDM,500000000,12000000
+DJ Snake,Taki Taki,EDM,600000000,18000000
+DJ Snake,Let Me Love You,EDM,400000000,10000000
+Billie Eilish,Ocean Eyes,Pop,300000000,7000000
+Billie Eilish,Your Power,Pop,250000000,5000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Post Malone,Rockstar,Hip Hop,1000000000,25000000
+Lil Uzi Vert,XO TOUR Llif3,Hip Hop,400000000,10000000
+Lil Uzi Vert,Money Longer,Hip Hop,350000000,9000000
+Nicki Minaj,Super Bass,Hip Hop,600000000,18000000
+Nicki Minaj,Anaconda,Hip Hop,500000000,12000000
+Cardi B,Bodak Yellow,Hip Hop,600000000,15000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+21 Savage,A Lot,Hip Hop,400000000,10000000
+21 Savage,bank account,Hip Hop,350000000,8000000
+Lil Baby,Drip Too Hard,Hip Hop,500000000,12000000
+Lil Baby,Yes Indeed,Hip Hop,400000000,10000000
+Future,Mask Off,Hip Hop,600000000,15000000
+Future,Jumpman,Hip Hop,500000000,12000000
+J Cole,Middle Child,Hip Hop,400000000,9000000
+J Cole,No Role Modelz,Hip Hop,300000000,7000000
+Travis Scott,Butterfly Effect,Hip Hop,400000000,10000000
+Travis Scott,Highest in the Room,Hip Hop,300000000,6000000
+Migos,Bad and Boujee,Hip Hop,600000000,15000000
+Migos,Walk It Talk It,Hip Hop,400000000,10000000
+Young Thug,Best Friend,Hip Hop,300000000,5000000
+Young Thug,Stoner,Hip Hop,250000000,4000000
+Khalid,Location,R&B,400000000,10000000
+Khalid,Talk,R&B,600000000,15000000
+H.E.R.,Best Part,R&B,300000000,7000000
+H.E.R.,Damage,R&B,200000000,3000000
+SZA,Good Days,R&B,400000000,10000000
+SZA,Drew Barrymore,R&B,300000000,6000000
+Summer Walker,Girls Need Love,R&B,300000000,6000000
+Summer Walker,Playing Games,R&B,200000000,4000000
+T-Pain,Buy U a Drank,R&B,300000000,6000000
+T-Pain,I'm Sprung,R&B,250000000,5000000
+Usher,Yeah!,R&B,600000000,15000000
+Usher,Climax,R&B,400000000,10000000
+John Legend,All of Me,R&B,600000000,15000000
+John Legend,Used to Love U,R&B,250000000,5000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Alicia Keys,No One,R&B,300000000,7000000
+Chris Brown,Forever,R&B,400000000,10000000
+Chris Brown,With You,R&B,350000000,9000000
+Justin Bieber,Sorry,Dancehall,1000000000,20000000
+Justin Bieber,What Do You Mean?,Pop,800000000,25000000
+Demi Lovato,Sorry Not Sorry,Pop,600000000,15000000
+Demi Lovato,Heart Attack,Pop,500000000,12000000
+Selena Gomez,Come & Get It,Pop,400000000,10000000
+Selena Gomez,Back to You,Pop,300000000,7000000
+Charlie Puth,Attention,Pop,600000000,15000000
+Charlie Puth,We Don't Talk Anymore,Pop,500000000,12000000
+Jessie J,Price Tag,Pop,400000000,10000000
+Jessie J,Domino,Pop,300000000,6000000
+Anne-Marie,Friends,Pop,500000000,13000000
+Anne-Marie,Ciao Adios,Pop,400000000,10000000
+Zara Larsson,Lush Life,Pop,600000000,15000000
+Zara Larsson,Symphony,Pop,500000000,12000000
+Ava Max,Sweet but Psycho,Pop,600000000,18000000
+Ava Max,Kings & Queens,Pop,700000000,20000000
+Bebe Rexha,Meant to Be,Pop,500000000,14000000
+Bebe Rexha,I'm a Mess,Pop,400000000,10000000
+Halsey,Without Me,Pop,700000000,20000000
+Halsey,Eastside,Pop,600000000,15000000
+Lizzo,Truth Hurts,Pop,600000000,15000000
+Lizzo,Good as Hell,Pop,500000000,13000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Bruno Mars,24K Magic,Pop,800000000,20000000
+Snoop Dogg,Drop It Like It's Hot,Hip Hop,600000000,15000000
+Snoop Dogg,What's My Name?,Hip Hop,400000000,10000000
+Lil Wayne,A Milli,Hip Hop,500000000,12000000
+Lil Wayne,Lollipop,Hip Hop,600000000,15000000
+Drake,God's Plan,Hip Hop,1000000000,30000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Eminem,Lose Yourself,Hip Hop,1000000000,25000000
+Eminem,Stan,Hip Hop,700000000,18000000
+50 Cent,In Da Club,Hip Hop,600000000,15000000
+50 Cent,21 Questions,Hip Hop,300000000,7000000
+Lil Kim,Crush on You,Hip Hop,250000000,4000000
+Lil Kim,No Time,Hip Hop,200000000,3000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Camila Cabello,Señorita,Pop,700000000,20000000
+Shawn Mendes,Stitches,Pop,600000000,15000000
+Shawn Mendes,There's Nothing Holdin' Me Back,Pop,500000000,12000000
+Niall Horan,Slow Hands,Pop,400000000,10000000
+Niall Horan,This Town,Pop,300000000,7000000
+Charlie Puth,One Call Away,Pop,500000000,12000000
+Charlie Puth,See You Again,Pop,600000000,15000000
+Ed Sheeran,Castle on the Hill,Pop,400000000,10000000
+Ed Sheeran,Galway Girl,Pop,500000000,13000000
+The Script,Hall of Fame,Pop Rock,400000000,10000000
+The Script,The Man Who Can't Be Moved,Pop Rock,300000000,6000000
+OneRepublic,Secrets,Pop Rock,500000000,12000000
+OneRepublic,Good Life,Pop Rock,400000000,10000000
+Florence + The Machine,Shake It Out,Indie Rock,450000000,11000000
+Florence + The Machine,Dog Days Are Over,Indie Rock,500000000,12000000
+Hozier,Take Me to Church,Indie Rock,800000000,20000000
+The Lumineers,Ho Hey,Folk,400000000,8000000
+The Killers,Mr. Brightside,Rock,1000000000,30000000
+Coldplay,Fix You,Rock,600000000,12000000
+Green Day,Boulevard of Broken Dreams,Punk Rock,500000000,14000000
+Alicia Keys,If I Ain't Got You,R&B,400000000,10000000
+Chris Brown,Forever,R&B,400000000,10000000
+Kelly Clarkson,Since U Been Gone,Pop,500000000,11000000
+Sam Smith,Stay With Me,Soul,400000000,10000000
+Justin Timberlake,Can't Stop the Feeling!,Pop,700000000,18000000
+Dua Lipa,Don't Start Now,Disco,700000000,18000000
+Halsey,Without Me,Pop,700000000,20000000
+Billie Eilish,Bad Guy,Pop,1000000000,30000000
+Rihanna,Diamonds,Pop,800000000,20000000
+Katy Perry,Roar,Pop,800000000,22000000
+Ed Sheeran,Perfect,Pop,1000000000,20000000
+The Weeknd,Blinding Lights,Synthpop,2000000000,40000000
+The Chainsmokers,Closer,EDM,1000000000,20000000
+Drake,In My Feelings,Hip Hop,800000000,20000000
+Post Malone,Circles,Hip Hop,600000000,15000000
+Bruno Mars,Uptown Funk,Pop,3000000000,40000000
+Camila Cabello,Havana,Pop,1000000000,30000000
+Imagine Dragons,Radioactive,Rock,1000000000,25000000
+Cardi B,I Like It,Hip Hop,700000000,18000000
+admin,paulim pinho,sertanejo,9010,5010
+Isabella Pereira,xereka de mel,louvor,1000000,1000000
+Caetano Veloso,A Luz de Tieta,MPB,1000000,50000
+Gilberto Gil,Aquele Abraço,MPB,2000000,80000
+Chico Buarque,Construção,MPB,1500000,70000
+Elis Regina,Apenas Mais Uma de Amor,MPB,3000000,120000
+Jorge Ben Jor,Taj Mahal,Samba,4000000,150000
+Legião Urbana,Eduardo e Mônica,Rock,5000000,200000
+Titãs,Epitáfio,Rock,3500000,140000
+Os Paralamas do Sucesso,Alagados,Rock,6000000,300000
+Skank,Garota Nacional,Pop,7000000,350000
+Ivete Sangalo,Encosta na Minha,Axé,8000000,400000
+Anitta,Show das Poderosas,Pop,9000000,500000
+Wesley Safadão,Meu Coração Te Acordou,Sertanejo,10000000,600000
+Zezé Di Camargo e Luciano,Eduardo e Mônica,Sertanejo,11000000,700000
+Luan Santana,Te Esperando, Sertanejo,12000000,750000
+Marília Mendonça,Infiel,Sertanejo,13000000,800000
+Guilherme Arantes,Planeta Água,MPB,1400000,60000
+Djavan,Oceano,MPB,2000000,90000
+Ana Carolina,Quem de Nós Dois,MPB,2500000,100000
+Ney Matogrosso,Homem com H,MPB,3000000,110000
+Luan Santana,Te Esperando,Sertanejo,4000000,150000
+Dilsinho,Pupila,Pagode,5000000,200000
+Pitty,Equalize,Rock,6000000,250000
+Fresno,Quem Você Sabe,Rock,7000000,300000
+Maroon 5,She Will Be Loved,Pop,8000000,350000
+Roupa Nova,Dona,Rock,9000000,400000
+Maria Gadú,Shimbalaiê,MPB,10000000,500000
+Vanessa da Mata,Boa Sorte/Good Luck,MPB,11000000,600000
+Sandy e Junior,As Quatro Estações,Pop,12000000,650000
+Zezé Di Camargo e Luciano,Apenas Mais Uma de Amor,Sertanejo,13000000,700000
+Adriana Calcanhotto,Devolva-me,MPB,14000000,750000
+Luan Santana,Meteoro,Sertanejo,15000000,800000
+Alcione,Não Deixe o Samba Morrer,Samba,16000000,850000
+Jorge e Mateus,Os Anjos Cantam,Sertanejo,18000000,950000
+Falamansa,Deixa eu Te Amar,Forró,19000000,1000000
+Fresno,Desde Quando Você Se Foi,Rock,20000000,1050000
+Titãs,Sonífera Ilha,Rock,21000000,1100000
+Chico Buarque,João Pessoa,MPB,23000000,1200000
+Caetano Veloso,Tropicália,MPB,24000000,1250000
+Gilberto Gil,Refavela,MPB,25000000,1300000
+Luan Santana,Quando a Gente Ama,Sertanejo,26000000,1350000
+Wesley Safadão,Solitário,Forró,27000000,1400000
+Zezé Di Camargo e Luciano,No Dia em Que Eu Sai de Casa,Sertanejo,28000000,1450000
+Marília Mendonça,Todo Mundo Vai Sofrer,Sertanejo,29000000,1500000
+Anitta,Paradinha,Pop,30000000,1550000
+Ivete Sangalo,Os Anjos Cantam,Axé,31000000,1600000
+Pitty,Me Adora,Rock,32000000,1650000
+Chorão,Qual é?,Rock,33000000,1700000
+Os Paralamas do Sucesso,Meu Erro,Rock,34000000,1750000
+Legião Urbana,Far Away,Rock,35000000,1800000
+Cazuza,Exagerado,Rock,36000000,1850000
+Titãs,As Melhores Coisas do Mundo,Rock,37000000,1900000
+Djavan,Flor de Lis,MPB,38000000,1950000
+Ney Matogrosso,Amor com Amor Se Paga,MPB,39000000,2000000
+Maroon 5,This Love,Pop,40000000,2050000
+Falamansa,Deixa eu Te Amar,Forró,41000000,2100000
+Roupa Nova,Canção de Verão,Rock,42000000,2150000
+Maria Rita,A Festa,MPB,43000000,2200000
+Adriana Calcanhotto,Eu Sei Que Vou Te Amar,MPB,44000000,2250000
+Luan Santana,Eu Não Vou Embora,Sertanejo,45000000,2300000
+Alcione,Eu Sou A Outra,Samba,46000000,2350000
+Wesley Safadão,Meu Corpo é Seu,Rap,47000000,2400000
+Céu,Malemolência,MPB,48000000,2450000
+Ana Carolina,Na Sua Estante,MPB,49000000,2500000
+Jorge Ben Jor,País Tropical,Samba,50000000,2550000
+Os Paralamas do Sucesso,Uma Brasileira,Rock,51000000,2600000
+Fresno,Revolução,Rock,52000000,2650000
+Titãs,Não Quero Ver Você Triste,Rock,53000000,2700000
+Gilberto Gil,Eu Só Quero um Xodó,MPB,54000000,2750000
+Caetano Veloso,Sozinho,MPB,55000000,2800000
+Legião Urbana,Que País é Este,Rock,56000000,2850000
+Chico Buarque,Apesar de Você,MPB,57000000,2900000
+Marília Mendonça,Cobertor,Sertanejo,58000000,2950000
+Zezé Di Camargo e Luciano,No Dia em Que Eu Sai de Casa,Sertanejo,59000000,3000000
+Guilherme Arantes,Um Dia,MPB,60000000,3050000
+Luan Santana,Chorando em Campo,Sertanejo,61000000,3100000
+Sandy e Junior,Desperdiçou,Sertanejo,62000000,3150000
+Alcione,Rio de Janeiro,Samba,63000000,3200000
+Djavan,Eu Te Devoro,MPB,64000000,3250000
+Ivete Sangalo,Quando a Gente Ama,Axé,65000000,3300000
+Pitty,Na Sua Estante,Rock,66000000,3350000
+Wesley Safadão,Como a Gente Faz,Forró,67000000,3400000
+Ney Matogrosso,Amor de Índio,MPB,68000000,3450000
+Cazuza,Ideologia,Rock,69000000,3500000
+Chorão,Meu Coração,Rock,70000000,3550000
+Ana Carolina,Rosinha,MPB,71000000,3600000
+Legião Urbana,Tempo Perdido,Rock,72000000,3650000
+Os Paralamas do Sucesso,Lanterna dos Afogados,Rock,73000000,3700000
+Gilberto Gil,Asa Branca,MPB,74000000,3750000
+Caetano Veloso,Iluminar,MPB,75000000,3800000
+Zezé Di Camargo e Luciano,Nosso Amor é Ouro,Sertanejo,76000000,3850000
+Luan Santana,Acordando o Prédio,Sertanejo,77000000,3900000
+Marília Mendonça,Amante Não Tem Lar,Sertanejo,78000000,3950000
+Sandy e Junior,Invisível,Sertanejo,79000000,4000000
+Titãs,Deus é um DJ,Rock,80000000,4050000
+Chico Buarque,Construção,MPB,81000000,4100000
+Elis Regina,Como Nossos Pais,MPB,82000000,4150000
+Gilberto Gil,A Paz,MPB,83000000,4200000
+Fresno,Invisível,Rock,84000000,4250000
+Jorge Ben Jor,Que Maravilha,Samba,85000000,4300000
+Guilherme Arantes,Planeta Água,MPB,86000000,4350000
+Pitty,Desconstruindo,Rock,87000000,4400000
+Cazuza,Exagerado,Rock,88000000,4450000
+Luan Santana,Teus Olhos,Sertanejo,89000000,4500000
+Alcione,Amor de Rins,Samba,90000000,4550000
+Luan Santana,A Corda,Sertanejo,91000000,4600000
+Zezé Di Camargo e Luciano,Dois Corações e Uma História,Sertanejo,92000000,4650000
+Jorge e Mateus,Leilão,Sertanejo,93000000,4700000
+Falamansa,Não Vou Mais Largar Você,Forró,94000000,4750000
+Ney Matogrosso,Esperando o Sol,Samba,95000000,4800000
+Ana Carolina,Quem de Nós Dois,MPB,96000000,4850000
+Titãs,As Melhores Coisas do Mundo,Rock,97000000,4900000
+Marília Mendonça,Amor de Fim de Noite,Sertanejo,98000000,4950000
+Caetano Veloso,Sozinho,MPB,99000000,5000000
+Gilberto Gil,Circulou,MPB,100000000,5050000
+Carlos Bernardo,mega trombeta,funk,1000000,100000
